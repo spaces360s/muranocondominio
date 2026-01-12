@@ -12,7 +12,7 @@ $(window).on("load", function () {
     const nodes = [
         {
             id: '1',
-            panorama: 'img/foto1.jpg',
+            panorama: 'img/foto1.webp',
             thumbnail: 'img/foto1_thumb.jpg',
             name: 'Exterior',
             caption: 'Puerta principal',
@@ -21,7 +21,7 @@ $(window).on("load", function () {
         },
         {
             id: '2',
-            panorama: 'img/foto2.jpg',
+            panorama: 'img/foto2.webp',
             thumbnail: 'img/foto2_thumb.jpg',
             name: 'Interior',
             caption: 'Entrada principal',
@@ -30,7 +30,7 @@ $(window).on("load", function () {
         },
         {
             id: '3',
-            panorama: 'img/foto3.jpg',
+            panorama: 'img/foto3.webp',
             thumbnail: 'img/foto3_thumb.jpg',
             name: 'Sala',
             caption: 'Sala Principal',
@@ -39,7 +39,7 @@ $(window).on("load", function () {
         },
         {
             id: '4',
-            panorama: 'img/foto4.jpg',
+            panorama: 'img/foto4.webp',
             thumbnail: 'img/foto4_thumb.jpg',
             name: 'Mirador',
             caption: 'Mirador Principal',
@@ -48,7 +48,7 @@ $(window).on("load", function () {
         },
         {
             id: '5',
-            panorama: 'img/foto5.jpg',
+            panorama: 'img/foto5.webp',
             thumbnail: 'img/foto5_thumb.jpg',
             name: 'Hall',
             caption: 'Hall Principal',
@@ -57,7 +57,7 @@ $(window).on("load", function () {
         },
         {
             id: '6',
-            panorama: 'img/foto6.jpg',
+            panorama: 'img/foto6.webp',
             thumbnail: 'img/foto6_thumb.jpg',
             name: 'Estudio',
             caption: 'Estudio Principal',
@@ -66,7 +66,7 @@ $(window).on("load", function () {
         },
         {
             id: '7',
-            panorama: 'img/foto7.jpg',
+            panorama: 'img/foto7.webp',
             thumbnail: 'img/foto7_thumb.jpg',
             name: 'Cocina',
             caption: 'Cocina Principal',
@@ -75,7 +75,7 @@ $(window).on("load", function () {
         },
         {
             id: '8',
-            panorama: 'img/foto8.jpg',
+            panorama: 'img/foto8.webp',
             thumbnail: 'img/foto8_thumb.jpg',
             name: 'Lavaropas',
             caption: 'Lavaropas Principal',
@@ -84,7 +84,7 @@ $(window).on("load", function () {
         },
         {
             id: '9',
-            panorama: 'img/foto9.jpg',
+            panorama: 'img/foto9.webp',
             thumbnail: 'img/foto9_thumb.jpg',
             name: 'Baño',
             caption: 'Baño Auxiliar',
@@ -93,7 +93,7 @@ $(window).on("load", function () {
         },
         {
             id: '10',
-            panorama: 'img/foto10.jpg',
+            panorama: 'img/foto10.webp',
             thumbnail: 'img/foto10_thumb.jpg',
             name: 'Habitación',
             caption: 'Habitación Auxiliar #1',
@@ -102,7 +102,7 @@ $(window).on("load", function () {
         },
         {
             id: '11',
-            panorama: 'img/foto11.jpg',
+            panorama: 'img/foto11.webp',
             thumbnail: 'img/foto11_thumb.jpg',
             name: 'Habitación',
             caption: 'Habitación Auxiliar #2',
@@ -111,7 +111,7 @@ $(window).on("load", function () {
         },
         {
             id: '12',
-            panorama: 'img/foto12.jpg',
+            panorama: 'img/foto12.webp',
             thumbnail: 'img/foto12_thumb.jpg',
             name: 'Habitación',
             caption: 'Habitación Principal',
@@ -120,7 +120,7 @@ $(window).on("load", function () {
         },
         {
             id: '13',
-            panorama: 'img/foto13.jpg',
+            panorama: 'img/foto13.webp',
             thumbnail: 'img/foto13_thumb.jpg',
             name: 'Baño',
             caption: 'Baño Principal',
