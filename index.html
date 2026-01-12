@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Murano Club Condominio - 701</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="js/photosphere.css" />
+    <link rel="stylesheet" href="js/compass.css" />
+    <link rel="stylesheet" href="js/virtualtour.css" />
+    <link rel="stylesheet" href="js/gallery.css" />
+    <link rel="stylesheet" href="js/markers.css" />
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+
+
+
+    <div class="container">
+        <div id="viewer" style="width: 100vw; height: 100vh;">
+            <div class="copyright">
+                <div class="psv-caption-content">
+                    Creado por <a class="copyrightlink" href="https://sergioserrano.framer.website"
+                        target="_blank">Sergio Serrano</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/gsap.min.js"></script>
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "./js/three.module.js",
+                "@photo-sphere-viewer/core": "./js/photosphere.module.js",
+                "@photo-sphere-viewer/gyroscope-plugin": "./js/gyroscope.module.js",
+                "@photo-sphere-viewer/compass-plugin": "./js/compass.module.js",
+                "@photo-sphere-viewer/virtual-tour-plugin": "./js/virtualtour.module.js",
+                "@photo-sphere-viewer/gallery-plugin": "./js/galley.module.js",
+                "@photo-sphere-viewer/markers-plugin": "./js/markers.module.js"
+            }
+        }
+    </script>
+    <script type="module" src="actions.js"></script>
+</body>
+
+</html>
